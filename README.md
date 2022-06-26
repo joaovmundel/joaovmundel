@@ -6,7 +6,7 @@
   <a href="https://github.com/joao100101">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao100101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao100101&layout=compact&langs_count=7&theme=tokyonight"/>
-   <img height="180em"  src="https://camo.githubusercontent.com/87e4dbabb293e20da459e62a275af9f16e72130a8270758d32391515703bda10/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d5368696674536164267468656d653d746f6b796f6e69676874" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=joao100101&amp;theme=tokyonight" style="max-width: 100%;"/>
+  <img height="180em"  src="http://github-readme-streak-stats.herokuapp.com?user=joao100101&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>
 </div>
 <div style="display: inline_block"><br>
   <a href="https://github.com/joao100101/Projetos-Java"><img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
