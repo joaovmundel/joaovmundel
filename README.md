@@ -1,7 +1,7 @@
 ### Bem vindo ao meu perfil do GitHub!
 
 - 🔭 Atualmente estudo java, javascript, python além de outras linguagens vistas no curso.
-- 🌱 Aprendendo mais sobre Indexação SQL e Connection POOL.
+- 🌱 Aprendendo Spring Boot e Angular
 - 🌱 Iniciando curso de React.
 <div align="center">
   <a href="https://github.com/joao100101">
