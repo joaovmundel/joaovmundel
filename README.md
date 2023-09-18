@@ -1,8 +1,7 @@
 ### Bem vindo ao meu perfil do GitHub!
 
-- 🔭 Atualmente estudo java, javascript, python além de outras linguagens vistas no curso.
-- 🌱 Aprendendo Laravel
-- 🌱 Conhecimentos em Spring Boot e Angular
+- 🔭 Desenvolvedor Java Junior.
+- 🌱  Aprendendo ReactJS
 <div align="center">
   <a href="https://github.com/joao100101">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao100101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
