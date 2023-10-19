@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil do GitHub!
 
-- 🔭 [05/2023] Desenvolvedor Java Estagiário.
+- 🔭 [05/2023] Desenvolvedor Java Spring-Boot Estagiário.
 - 🌱 [08/2023] Aprendendo ReactJS
 - 🌱 [10/2023] Finalizando programa de bolsas da Compass UOL (Spring Boot/AWS)
 <div align="left">
