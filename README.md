@@ -2,7 +2,7 @@
 
 - 🔭 [05/2023] Desenvolvedor Java Spring-Boot Estagiário.
 - 🌱 [08/2023] Aprendendo ReactJS
-- 🌱 [10/2023] Finalizando programa de bolsas da Compass UOL (Spring Boot/AWS)
+- 🌱 [10/2023] Finalizado programa de bolsas da Compass UOL (Spring Boot/AWS)
 <div align="left">
   <a href="https://github.com/joao100101">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao100101&layout=compact&langs_count=7&theme=tokyonight"/>
