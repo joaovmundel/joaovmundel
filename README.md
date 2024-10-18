@@ -4,17 +4,17 @@
 - 🌱 [08/2023] Aprendendo ReactJS
 - 🌱 [10/2023] Finalizado programa de bolsas da Compass UOL (Spring Boot/AWS)
 <div align="left">
-  <a href="https://github.com/joao100101">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao100101&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img height="180em"  src="http://github-readme-streak-stats.herokuapp.com?user=joao100101&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>
+  <a href="https://github.com/joaovmundel">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovmundel&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em"  src="http://github-readme-streak-stats.herokuapp.com?user=joaovmundel&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>
   </a>
 </div>
 <div style="display: inline-flex"><br>
-  <a href="https://github.com/joao100101/EcoSaver"><img align="center" alt="Java-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <a href="https://github.com/joao100101/Estrutura-De-Dados"><img align="center" alt="JavaScript-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href="https://github.com/joaovmundel/EcoSaver"><img align="center" alt="Java-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <a href="https://github.com/joaovmundel/Estrutura-De-Dados"><img align="center" alt="JavaScript-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Html-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Css-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://github.com/joao100101/EcoSaver"><img align="center" alt="React-Icon" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+  <a href="https://github.com/joaovmundel/EcoSaver"><img align="center" alt="React-Icon" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
 </div>
   
   ##
