@@ -1,7 +1,8 @@
 ### Bem vindo ao meu perfil do GitHub!
+- 💲 [07/2025] Participação em projeto interno PicPay com Python FastAPI e React
+- 🏦 [09/2024 - 06/2025] Participação no desenvolvimento do Internet Banking PJ do PicPay com Angular
 - ✌🏻 [10/2024] Desenvolvedor Full Stack Java/Angular
 - 🔭 [05/2023] Desenvolvedor Java Spring-Boot Estagiário.
-- 🌱 [08/2023] Aprendendo ReactJS
 - 🌱 [10/2023] Finalizado programa de bolsas da Compass UOL (Spring Boot/AWS)
 <div align="left">
   <a href="https://github.com/joaovmundel">
