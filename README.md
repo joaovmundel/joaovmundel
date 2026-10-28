@@ -3,7 +3,7 @@
 - ⛽ [12/2025] Comecei a trabalhar com APIs Java + Lambda no Ipiranga 
 - 💲 [07/2025] Participação em projeto interno PicPay com Python FastAPI e React
 - 🏦 [09/2024] Participação no desenvolvimento do Internet Banking PJ PicPay com Angular
-- ✌🏻 [10/2024] Desenvolvedor Full Stack Java/Angular
+- ✌🏻 [09/2024] Desenvolvedor Full Stack Java/Angular
 - 🔭 [05/2023] Desenvolvedor Java Spring-Boot Estagiário.
 - 🌱 [10/2023] Finalizado programa de bolsas da Compass UOL (Spring Boot/AWS)
 <div align="left">
